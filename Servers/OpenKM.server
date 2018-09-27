@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/OpenKM-config" deployDir="/home/openkm/Development/tomcat-7.0.61/webapps" hostname="localhost" id="OpenKM 6.4" name="OpenKM" runtime-id="OpenKM" server-type="org.eclipse.jst.server.tomcat.70" server-type-id="org.eclipse.jst.server.tomcat.70" start-timeout="333" stop-timeout="333" testEnvironment="false" timestamp="9"/>
